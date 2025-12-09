@@ -4,4 +4,5 @@
 ![GitHub stats](https://github-readme-stats-sh1g.vercel.app/api?username=nadavmenirav)
 
 ## 💻 Top Languages
-![Top Languages](https://github-readme-stats-sh1g.vercel.app/api/top-langs/?username=nadavmenirav)
+![Top Languages](https://github-readme-stats-sh1g.vercel.app/api/top-langs/?username=nadavmenirav&exclude_repo=github-readme-stats)
+
