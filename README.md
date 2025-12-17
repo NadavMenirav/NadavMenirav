@@ -8,4 +8,4 @@
 
 ## 🤖 Top Projects
 [![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=NadavMenirav&repo=Watering-Problem&theme=radical)](https://github.com/nadavmenirav/Watering-Problem)
-[![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=NadavMenirav&repo=Parallel-Page-Ranking&theme=radical)](https://github.com/nadavmenirav/Parallel-Page-Ranking&v=12)
+[![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=NadavMenirav&repo=Parallel-Page-Ranking&theme=radical)](https://github.com/nadavmenirav/Parallel-Page-Ranking)
