@@ -5,7 +5,7 @@
 [![GitHub Streak](https://github-readme-streak-stats-coral-eta.vercel.app/?user=NadavMenirav&theme=radical&card_width=300&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
 ## 💻 Top Languages
-![Top Languages](https://github-readme-stats-sh1g.vercel.app/api/top-langs/?username=NadavMenirav&layout=compact&theme=radical&hide=shell,cmake,makefile&exclude_repo=github-readme-stats,github-readme-streak-stats&stats_format=lines&v=7)
+![Top Languages](https://github-readme-stats-sh1g.vercel.app/api/top-langs/?username=NadavMenirav&layout=compact&theme=radical&hide=shell,cmake,makefile&exclude_repo=github-readme-stats,github-readme-streak-stats&stats_format=lines&v=6)
 
 ## 🤖 Top Projects
 [![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=NadavMenirav&repo=Watering-Problem&theme=radical)](https://github.com/nadavmenirav/Watering-Problem)
