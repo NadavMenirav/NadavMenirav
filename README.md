@@ -9,6 +9,6 @@
 
 ## 🤖 Top Projects
 [![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=NadavMenirav&repo=Watering-Problem&theme=radical&v=10)](https://github.com/nadavmenirav/Watering-Problem)
-[![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=NadavMenirav&repo=Neural-Network-From-Scratch&theme=radical&v=10)](https://github.com/NadavMenirav/nn.h)
+[![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=NadavMenirav&repo=Neural-Network-From-Scratch&theme=radical&v=10)](https://github.com/NadavMenirav/Neural-Network-From-Scratch)
 [![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=NadavMenirav&repo=Parallel-Page-Ranking&theme=radical)](https://github.com/nadavmenirav/Parallel-Page-Ranking)
 [![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=NadavMenirav&repo=Arkanoid&theme=radical)](https://github.com/nadavmenirav/Arkanoid)
