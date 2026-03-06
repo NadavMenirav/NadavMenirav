@@ -1,8 +1,8 @@
 # Nadav Menirav GitHub Stats
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats-sh1g.vercel.app/api?username=NadavMenirav&theme=radical&show_icons=true&count_private=true&include_all_commits=false&v=8)
-[![GitHub Streak](https://github-readme-streak-stats-coral-eta.vercel.app/?user=NadavMenirav&theme=radical&card_width=300&hide_total_contributions=true&hide_longest_streak=true&v=10)](https://git.io/streak-stats)
+![GitHub stats](https://github-readme-stats-sh1g.vercel.app/api?username=NadavMenirav&theme=radical&show_icons=true&count_private=true&include_all_commits=false&v=7)
+[![GitHub Streak](https://github-readme-streak-stats-coral-eta.vercel.app/?user=NadavMenirav&theme=radical&card_width=300&hide_total_contributions=true&hide_longest_streak=true&v=11)](https://git.io/streak-stats)
 
 ## 💻 Top Languages
 ![Top Languages](https://github-readme-stats-sh1g.vercel.app/api/top-langs/?username=NadavMenirav&layout=compact&theme=radical&hide=shell,cmake,makefile&exclude_repo=github-readme-stats,github-readme-streak-stats&stats_format=lines&v=4)
